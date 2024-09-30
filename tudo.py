@@ -5,6 +5,8 @@ from email.mime.text import MIMEText
 from tabulate import tabulate  # Importar o módulo tabulate
 
 
+
+
 # Dados pré-cadastrados
 salas = {
     'A': 'Salão de Festas',
@@ -254,3 +256,6 @@ def menu():
 
 # Iniciar o sistema
 menu()
+
+
+#eu realmente nao sei o que fazer mais 
